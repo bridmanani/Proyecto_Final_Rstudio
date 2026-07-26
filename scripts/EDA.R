@@ -49,27 +49,15 @@ Proyecto_Final/
 ├── figures/
 │   ├── grafico1.png
 │   ├── grafico2.png
-│   └── analisis_final.png
+│   └── Graficos Rstudio.png
 │
 ├── scripts/
 │   ├── EDA.R
 │   └── 04_analisis_final.R
+│   └── Enaho01-2020-200.sav
 │
 └── README.md
 ```
-
----
-
-# Tecnologías utilizadas
-
-- R
-- RStudio
-- tidyverse
-- ggplot2
-- haven
-- janitor
-- skimr
-- GitHub
 
 ---
 
