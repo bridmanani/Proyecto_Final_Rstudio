@@ -1,4 +1,4 @@
-# 📊 Análisis Exploratorio de Datos (EDA) – ENAHO 2020
+# Análisis Exploratorio de Datos (EDA) – ENAHO 2020
 
 ## Proyecto Final – Ofimática
 
